@@ -1,2 +1,3 @@
 # gallery-project
-Galeria de fotos
+Galeria de fotos 
+Utilizando (Bootstrap/Jquery/Webpack)
